@@ -1,0 +1,3 @@
+-gram input,cancel
+-input mic
+-h model/phone_m/hmmdefs_monof_mix16_gid.binhmm

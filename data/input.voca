@@ -1,0 +1,74 @@
+% TARGET
+テレビ     t e r e b i
+電気       d e n k i
+
+% WO
+を         w o
+を         o
+
+% ACTION
+つけて     ts u k e t e
+消して     k e sh i t e
+切替       k i r i k a e
+次         ts u g i
+前         m a e
+
+% SENTENCE
+バルス     b a r u s u
+
+% NOISE
+<sp>       sp
+
+% NS_B
+<s>        silB
+
+% NS_E
+<s>        silE
+
+% GOMI
+あ	a
+い	i
+う	u
+え	e
+お	o
+か	k a
+き	k i
+く	k u
+け	k e
+こ	k o
+さ	s a
+し	sh i
+す	s u
+せ	s e
+そ	s o
+た	t a
+ち	ch i
+つ	ts u
+て	t e
+と	t o
+な	n a
+に	n i
+ぬ	n u
+ね	n e
+の	n o
+は	h a
+ひ	h i
+ふ	f u
+へ	h e
+ほ	h o
+ま	m a
+み	m i
+む	m u
+め	m e
+も	m o
+や	y a
+ゆ	y u
+よ	y o
+ら	r a
+り	r i
+る	r u
+れ	r e
+ろ	r o
+わ	w a
+を	w o
+ん	N

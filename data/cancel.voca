@@ -1,0 +1,18 @@
+% WORD
+はい		h a i
+うん		u N
+する		s u r u
+します		sh i m a s u
+キャンセル	ky a N s e r u
+しない		sh i n a i
+いや		i y a
+そのまま	s o n o m a m a
+
+% NOISE
+<sp>       sp
+
+% NS_B
+<s>        silB
+
+% NS_E
+<s>        silE

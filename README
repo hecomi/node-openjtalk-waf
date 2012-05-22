@@ -1,0 +1,17 @@
+Node.js の Open JTalk addon です。
+ライセンスは Open JTalk に準拠します。
+
+音声ファイルは別途必要になります。
+下記 Open JTalk のページもしくは http://www.mmdagent.jp からダウンロードして下さい。
+
+---
+
+コンパイル方法:
+	$ node-waf configure build
+
+---
+
+Open JTalk : http://open-jtalk.sourceforge.net
+解説サイト : http://d.hatena.ne.jp/hecomi/
+
+---
